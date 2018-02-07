@@ -1,4 +1,4 @@
 # cronometroJS
-Meu primeiro projeto totalmente sozinho em JS, um cronômetro;
+Meu primeiro projeto totalmente sozinho em JS, um cronômetro
 
-Feito a partir dos cursos de JavaScript Ninja do Fernando Daciuk!;
+Feito a partir dos cursos de JavaScript Ninja do Fernando Daciuk!
